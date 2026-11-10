@@ -67,7 +67,7 @@ function Title({ kicker, children }) {
   );
 }
 
-/* Aperçu : capture locale si elle existe (public/projects/<nom>.png), sinon site en direct */
+
 function Preview({ p }) {
   const slug = p.title.toLowerCase().replace(/\s+/g, "-");
   const [mode, setMode] = useState("img");
