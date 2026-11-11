@@ -56,6 +56,13 @@ export const projects = [
     url: "https://contact-book-ten-amber.vercel.app/",
     stack: ["React", "JavaScript", "Axios", "React Router", "React Bootstrap", "CSS", "Vercel"],
   },
+  {
+    title: "Traveling",
+    year: "2026",
+    description: "Application de découverte de destinations avec un globe interactif où un avion vole vers la catégorie choisie, recherche, filtre par note et ajout de destinations.",
+    url: "https://traveling-ecru-zeta.vercel.app/",
+    stack: ["React", "JavaScript", "React Router", "React Bootstrap", "d3-geo", "CSS", "Vercel"],
+  },
 ];
 
 export const experiences = [
