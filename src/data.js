@@ -49,6 +49,13 @@ export const projects = [
     url: "https://real-madrid-fifa.vercel.app/",
     stack: ["React", "JavaScript", "CSS", "Vercel"],
   },
+  {
+    title: "Contact Book",
+    year: "2026",
+    description: "Application de gestion de contacts consommant l'API JSONPlaceholder avec Axios.",
+    url: "https://contact-book-ten-amber.vercel.app/",
+    stack: ["React", "JavaScript", "Axios", "React Router", "React Bootstrap", "CSS", "Vercel"],
+  },
 ];
 
 export const experiences = [
