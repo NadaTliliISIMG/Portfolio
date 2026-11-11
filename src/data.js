@@ -63,6 +63,14 @@ export const projects = [
     url: "https://traveling-ecru-zeta.vercel.app/",
     stack: ["React", "JavaScript", "React Router", "React Bootstrap", "d3-geo", "CSS", "Vercel"],
   },
+  {
+  title: "Game Library",
+  year: "2026",
+  description:
+    "Application de gestion d'une bibliothèque de jeux vidéo pilotée par une manette interactive : les boutons ▲ (ajouter), ● (modifier) et ✕ (supprimer) et la croix directionnelle permettent de naviguer dans un carrousel 3D de jaquettes.",
+  url: "https://game-lib-blond.vercel.app/",
+  stack: ["React", "JavaScript", "Redux Toolkit", "React Bootstrap", "CSS", "Vercel"],
+},
 ];
 
 export const experiences = [
